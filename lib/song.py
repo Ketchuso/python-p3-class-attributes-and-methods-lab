@@ -1,2 +1,2 @@
 class Song:
-    pass
+    __init__(self, song, name,  )
